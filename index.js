@@ -22,7 +22,7 @@ function setImg() {
 // console.log "I study JS"
 
 function sayHi() {
-    console.log("I study JS");
+    console.log("Я учу JavaScript!");
 }
 
 sayHi();
